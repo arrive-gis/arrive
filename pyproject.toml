@@ -19,7 +19,12 @@ classifiers = [
 ]
 
 dependencies = [
-  # "pydantic>=2",  # add runtime deps here
+    "geopandas>=1.0",
+    "rasterio>=1.3",
+    "folium>=0.17",
+    "pyproj>=3.6",
+    "shapely>=2.0"
+    "contextily>=1.6.2"
 ]
 
 [project.urls]
