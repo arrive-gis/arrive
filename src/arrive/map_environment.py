@@ -175,6 +175,3 @@ def show_on_basemap(
             "Supported vectors: .shp .geojson .json .gpkg .fgb; "
             "Supported rasters: .tif .tiff .geotiff"
         )
-
-
-        
